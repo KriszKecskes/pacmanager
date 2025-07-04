@@ -22,3 +22,5 @@ It simplifies the process of:
 ![Package info list](assets/images/4.png)
 ![Update check screen](assets/images/5.png)
 ![Available updates screen](assets/images/6.png)
+![Available updates screen](assets/images/7.png)
+![Available updates screen](assets/images/8.png)
