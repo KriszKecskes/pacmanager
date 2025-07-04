@@ -14,9 +14,6 @@ conflicts=("${_pkgname}")
 
 source=("${_pkgname}-${pkgver}.deb::${url}/releases/download/v${pkgver}/${_pkgname}_${pkgver}_amd64.deb")
 
-# A letöltött fájl sértetlenségét ellenőrző checksum.
-# Ezt minden verzióváltáskor frissíteni kell!
-# Generálása: `sha256sum a_fájl_neve` vagy `updpkgsums` paranccsal.
 sha256sums=('aeaee7e5841da84687472a62665b9f0f4dfa24afe6da3c343264eb0745f2add8')
 
 package() {
