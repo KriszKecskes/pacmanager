@@ -15,3 +15,15 @@ It simplifies the process of:
 - Managing dependencies: Handles package dependencies automatically for a smoother experience.
 
 - This tool aims to make package management on Arch-based distributions more accessible and intuitive for users of all experience levels.
+
+<img src="https://ibb.co/KzN7tgWt" alt="..." />
+
+<img src="https://ibb.co/N6dmRqP8" alt="..." />
+
+<img src="https://ibb.co/Lznxqzyc" alt="..." />
+
+<img src="https://ibb.co/fYgcz8Yg" alt="..." />
+
+<img src="https://ibb.co/sp4fjDMh" alt="..." />
+
+<img src="https://ibb.co/8LZVjYBm" alt="..." />
