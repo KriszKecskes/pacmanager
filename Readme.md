@@ -16,14 +16,9 @@ It simplifies the process of:
 
 - This tool aims to make package management on Arch-based distributions more accessible and intuitive for users of all experience levels.
 
-<img src="https://ibb.co/KzN7tgWt" alt="..." />
-
-<img src="https://ibb.co/N6dmRqP8" alt="..." />
-
-<img src="https://ibb.co/Lznxqzyc" alt="..." />
-
-<img src="https://ibb.co/fYgcz8Yg" alt="..." />
-
-<img src="https://ibb.co/sp4fjDMh" alt="..." />
-
-<img src="https://ibb.co/8LZVjYBm" alt="..." />
+![The main screen](assets/images/1.png)
+![Package info](assets/images/2.png)
+![Installed packages list](assets/images/3.png)
+![Package info list](assets/images/4.png)
+![Update check screen](assets/images/5.png)
+![Available updates screen](assets/images/6.png)
