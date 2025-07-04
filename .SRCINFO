@@ -1,0 +1,17 @@
+pkgbase = pacmanager-bin
+	pkgdesc = This application provides a user-friendly graphical interface for managing both official Arch Linux packages via pacman and AUR (Arch User Repository) packages via yay.
+	pkgver = 0.1.0
+	pkgrel = 1
+	url = https://github.com/KriszKecskes/pacmanager
+	arch = x86_64
+	license = custom
+	depends = gtk3
+	depends = webkit2gtk
+	depends = libayatana-appindicator
+	depends = openssl-1.1
+	provides = pacmanager
+	conflicts = pacmanager
+	source = pacmanager-0.1.0.deb::https://github.com/KriszKecskes/pacmanager/releases/download/v0.1.0/pacmanager_0.1.0_amd64.deb
+	sha256sums = aeaee7e5841da84687472a62665b9f0f4dfa24afe6da3c343264eb0745f2add8
+
+pkgname = pacmanager-bin
